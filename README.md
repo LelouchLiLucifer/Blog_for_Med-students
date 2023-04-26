@@ -1,2 +1,0 @@
-# Blog_of_Bioinformatic
-Blog_for_Cookbook_of_Bioinformatic

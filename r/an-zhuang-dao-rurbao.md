@@ -69,4 +69,4 @@ install.packages(packages)
 inst = lapply(packages,library,character.only = TRUE)
 ```
 
-原文的Github链接[https://github.com/LelouchLiLucifer/Cookbook\_of\_Bioinformatic/blob/main/R\_script/install%26library\_R-packages.R](https://github.com/LelouchLiLucifer/Cookbook\_of\_Bioinformatic/blob/main/R\_script/install%26library\_R-packages.R)
+原文的Github链接[点击这里♥](https://github.com/LelouchLiLucifer/Cookbook\_of\_Bioinformatic/blob/main/R\_script/install%26library\_R-packages.R)

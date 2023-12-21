@@ -10,3 +10,4 @@
   * [基本操作](r/ji-ben-cao-zuo.md)
 * [杂项（随笔）](za-xiang-sui-bi/README.md)
   * [install\_Golang](za-xiang-sui-bi/install\_golang.md)
+  * [如何使用ffmpeg](za-xiang-sui-bi/ru-he-shi-yong-ffmpeg.md)

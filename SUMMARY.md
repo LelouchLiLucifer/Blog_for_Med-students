@@ -2,6 +2,7 @@
 
 * [你好，世界！](README.md)
 * [基础实验](ji-chu-shi-yan/README.md)
+  * [大肠杆菌化学转化原理](ji-chu-shi-yan/da-chang-gan-jun-hua-xue-zhuan-hua-yuan-li.md)
   * [琼脂糖凝胶DNA回收](ji-chu-shi-yan/qiong-zhi-tang-ning-jiao-dna-hui-shou.md)
 
 ## 生信编程 <a href="#bioinformatics" id="bioinformatics"></a>

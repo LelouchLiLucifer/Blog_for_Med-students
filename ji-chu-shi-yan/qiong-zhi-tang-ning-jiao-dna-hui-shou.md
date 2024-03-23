@@ -32,4 +32,4 @@
 
 #### 参考源:
 
-\[1]美基生物[琼脂糖凝胶DNA回收试剂盒HiPure Gel Pure DNA Mini Kit (D2111)](http://www.magentec.com.cn/product\_show.php?id=251)的说明书,www.magentec.com.cn
+\[1]美基生物[琼脂糖凝胶DNA回收试剂盒HiPure Gel Pure DNA Mini Kit (D2111)](http://www.magentec.com.cn/product\_show.php?id=251)的说明书

@@ -4,6 +4,8 @@
 * [基础实验](ji-chu-shi-yan/README.md)
   * [大肠杆菌化学转化原理](ji-chu-shi-yan/da-chang-gan-jun-hua-xue-zhuan-hua-yuan-li.md)
   * [琼脂糖凝胶DNA回收](ji-chu-shi-yan/qiong-zhi-tang-ning-jiao-dna-hui-shou.md)
+  * [蛋白提取](ji-chu-shi-yan/dan-bai-ti-qu.md)
+  * [碱裂解法提取质粒](ji-chu-shi-yan/jian-lie-jie-fa-ti-qu-zhi-li.md)
 
 ## 生信编程 <a href="#bioinformatics" id="bioinformatics"></a>
 

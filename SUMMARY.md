@@ -16,6 +16,7 @@
   * [Welcome\_to\_R](bioinformatics/r/welcome_to_r.md)
   * [安装&导入R包](bioinformatics/r/an-zhuang-dao-rurbao.md)
   * [基本操作](bioinformatics/r/ji-ben-cao-zuo.md)
+  * [高效R编程-从底层逻辑到代码实践](bioinformatics/r/gao-xiaorbian-cheng-cong-di-ceng-luo-ji-dao-dai-ma-shi-jian.md)
 
 ***
 

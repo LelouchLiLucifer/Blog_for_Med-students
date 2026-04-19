@@ -18,6 +18,8 @@
   * [基本操作](bioinformatics/r/ji-ben-cao-zuo.md)
   * [高效R编程-从底层逻辑到代码实践](bioinformatics/r/gao-xiaorbian-cheng-cong-di-ceng-luo-ji-dao-dai-ma-shi-jian.md)
   * [高效R编程-I/O指南](bioinformatics/r/gao-xiaorbian-cheng-io-zhi-nan.md)
+  * [R可视化](bioinformatics/r/r-ke-shi-hua/README.md)
+    * [时间轴图 (Timeline)](bioinformatics/r/r-ke-shi-hua/shi-jian-zhou-tu-timeline.md)
 
 ***
 

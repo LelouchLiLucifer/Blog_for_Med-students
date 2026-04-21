@@ -20,6 +20,8 @@
   * [高效R编程-I/O指南](bioinformatics/r/gao-xiaorbian-cheng-io-zhi-nan.md)
   * [R可视化](bioinformatics/r/r-ke-shi-hua/README.md)
     * [时间轴图 (Timeline)](bioinformatics/r/r-ke-shi-hua/shi-jian-zhou-tu-timeline.md)
+* [Python](bioinformatics/python/README.md)
+  * [VS Code中配置 Jupyter 指南](bioinformatics/python/vs-code-zhong-pei-zhi-jupyter-zhi-nan.md)
 
 ***
 

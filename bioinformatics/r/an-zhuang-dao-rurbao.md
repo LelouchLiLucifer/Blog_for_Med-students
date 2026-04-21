@@ -1,5 +1,5 @@
 ---
-description: install&library_R-packages
+description: install & library R packages
 ---
 
 # 安装&导入R包
@@ -10,8 +10,7 @@ R包有什么用？\
 举个不是很恰当的例子：我们实际使用R就如同我们使用自己的计算机一样，R包相当于是具有不同功能软件的软件包，让我们无需自己从头研究某项功能怎么实现，而是直接使用前人开发好的成品软件即可。\
 那么R包该怎么安装呐？\
 安装一个新的R包可以使用 `install.packages()` 函数：\
-**注意使用的标点符号均为英文标点** 从 CRAN 网站上获取包，以`ggplot2`这个包为例\
-
+**注意使用的标点符号均为英文标点** 从 CRAN 网站上获取包，以`ggplot2`这个包为例\\
 
 ```
 install.packages("ggplot2")
@@ -37,23 +36,20 @@ install_github("库名/R包名")
 ```
 
 本地安装R包（可以解决网站上的R包被下架的情况）\
-在CRAN网站的存档里找到需要的R包并下载到本地，网址：https://cran.r-project.org/src/contrib/Archive/\
-
+在CRAN网站的存档里找到需要的R包并下载到本地，网址：https://cran.r-project.org/src/contrib/Archive/&#x20;
 
 ```
 install.packages("下载路径/R包名", repos = NULL, type = "source")
 ```
 
-或者你也可以这样\
-
+或者你也可以这样&#x20;
 
 ```
 package_url = "下载地址"
 install.packages(package_url, repos = NULL, type = "source")
 ```
 
-安装的包需要每次先载入 R 编译环境中才可以使用，格式如下：\
-
+安装的包需要每次先载入 R 编译环境中才可以使用，格式如下：
 
 ```
 library("R包名")
@@ -68,14 +64,15 @@ install.packages(packages)
 #载入多个R包
 inst = lapply(packages,library,character.only = TRUE)
 ```
-安装有外部依赖项的R包 \
-一些R包有外部依赖(比如可能调用了R以外的库)。在类UNIX系统(比如最常见的Linux系统)中，最好的方案是在操作系统层面进行安装，不要使用install.packages。这样可以实现在保证了R包安装的同时，其必须依赖的包也得以安装和正确的设置。 \
-以Ubuntu为例，我们可以在`https://cran.r-project.org/bin/linux/ubuntu/fullREADME.html`下看到详细的有关"Ubuntu Packages for R"的说明: \
-Ubuntu 存储库中提供了许多名称以 r-cran- 开头的 R 包 \
+
+安装有外部依赖项的R包\
+一些R包有外部依赖(比如可能调用了R以外的库)。在类UNIX系统(比如最常见的Linux系统)中，最好的方案是在操作系统层面进行安装，不要使用install.packages。这样可以实现在保证了R包安装的同时，其必须依赖的包也得以安装和正确的设置。\
+以Ubuntu为例，我们可以在`https://cran.r-project.org/bin/linux/ubuntu/fullREADME.html`下看到详细的有关"Ubuntu Packages for R"的说明:\
+Ubuntu 存储库中提供了许多名称以 r-cran- 开头的 R 包\
 这里举一个例子(以安装rgdal为例)：
+
 ```
 apt-cache search r-cran- #搜索cran Debian包
 sudo apt-get install r-cran-rgdal
 ```
 
-原文的Github链接[点击这里♥](https://github.com/LelouchLiLucifer/Cookbook\_of\_Bioinformatic/blob/main/R\_script/install%26library\_R-packages.R)

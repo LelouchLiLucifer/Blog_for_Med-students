@@ -9,8 +9,8 @@
   * [如何使用conda配置工作环境](bioinformatics/linux/ru-he-shi-yong-conda-pei-zhi-gong-zuo-huan-jing.md)
 * [R](bioinformatics/r/README.md)
   * [Welcome to R](bioinformatics/r/welcome-to-r.md)
-  * [安装&导入R包](bioinformatics/r/install-r-packages.md)
   * [基本操作](bioinformatics/r/basic.md)
+  * [安装&导入R包](bioinformatics/r/install-r-packages.md)
   * [高效R编程-从底层逻辑到代码实践](bioinformatics/r/gao-xiaorbian-cheng-cong-di-ceng-luo-ji-dao-dai-ma-shi-jian.md)
   * [高效R编程-I/O指南](bioinformatics/r/gao-xiaorbian-cheng-io-zhi-nan.md)
   * [R可视化](bioinformatics/r/r-ke-shi-hua/README.md)
@@ -24,6 +24,10 @@
 * [琼脂糖凝胶DNA回收](basicexperiment/qiong-zhi-tang-ning-jiao-dna-hui-shou.md)
 * [蛋白提取](basicexperiment/dan-bai-ti-qu.md)
 * [碱裂解法提取质粒](basicexperiment/jian-lie-jie-fa-ti-qu-zhi-li.md)
+
+## Python
+
+* [🐍 如何理解 The Zen of Python](python/ru-he-li-jie-the-zen-of-python.md)
 
 ***
 

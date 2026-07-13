@@ -17,7 +17,7 @@
     * [时间轴图 (Timeline)](bioinformatics/r/r-ke-shi-hua/shi-jian-zhou-tu-timeline.md)
 * [Python](bioinformatics/python/README.md)
   * [VS Code中配置 Jupyter 指南](bioinformatics/python/vs-code-zhong-pei-zhi-jupyter-zhi-nan.md)
-  * [高效管理 Python 环境 -- 科学的使用 uv](bioinformatics/python/gao-xiao-guan-li-python-huan-jing-ke-xue-de-shi-yong-uv.md)
+  * [高效管理 Python 环境 -- 科学的使用 uv](bioinformatics/python/how-to-use-uv.md)
 
 ## 基础实验 <a href="#basicexperiment" id="basicexperiment"></a>
 

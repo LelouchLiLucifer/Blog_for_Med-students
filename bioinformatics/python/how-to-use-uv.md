@@ -1,5 +1,8 @@
 ---
 description: uv
+cover: ../../.gitbook/assets/uv.webp
+coverY: 0
+coverHeight: 219
 ---
 
 # 高效管理 Python 环境 -- 科学的使用 uv

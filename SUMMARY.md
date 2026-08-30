@@ -36,3 +36,4 @@
   * [工作流](uncategorized/gong-zuo-liu.md)
   * [install\_Golang](uncategorized/install_golang.md)
   * [如何使用ffmpeg](uncategorized/ru-he-shi-yong-ffmpeg.md)
+  * [Openwrt 25.x发行版配置指南](uncategorized/openwrt.md)
